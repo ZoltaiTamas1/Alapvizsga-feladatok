@@ -1,0 +1,28 @@
+/* styles.css */
+
+body {
+    background-color: #ffe100; /* Ferrari sárga */
+}
+
+.content {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+    color: #dc0000; /* Ferrari piros szöveg */
+}
+
+.sidebar {
+    background-color: #dc0000; /* Ferrari piros háttér */
+    color: #fff; /* Fehér szöveg a piros háttéren */
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #dc0000; /* Ferrari piros */
+    color: #fff; /* Fehér szöveg a piros háttéren */
+}
