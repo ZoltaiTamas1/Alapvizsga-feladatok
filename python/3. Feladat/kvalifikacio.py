@@ -47,21 +47,3 @@ for k in koridok:
 for konstruktor, koridok_szama in konstruktorok.items():
     if koridok_szama > 4:
         print(f'\t{konstruktor}: {koridok_szama} köridő')
-
-
-
-# 1. Készítsen python alkalmazást a következő feladatok megoldására, amelynek projektjét kvalifikacio néven mentse el!
-
-# 2. Olvassa be a Monaco 2023.py állomány sorait és tárolja az adatokat egy olyan adatszerkezetben, amely használatával a további feladatok megoldhatók!
-
-# 3. Határozza meg és írja ki a képernyőre, hogy hány köridő szerepel a forrásállományban!
-
-# 4. Készítsen metódust amely a futott köridőt másodpercre váltja, ezredmásodperc pontossággal!
-
-# 5. Melyik versenyző érte el a legjobb eredményt a Q1-ben? A minta szerint írja ki ezen versenyző adatait! Feltételezheti, hogy nem alakul ki holtverseny.
-
-# 6. Listázza ki a Q2-be jutott versenyzőket, valamint az ott megtett köridejüket!
-
-# 7. Kérjen be egy köridőt, majd írja a hatarfeletti.txt állományba azon versenyzőket és köridejüket, akik a megadott időnél gyorsabban tették meg a kört! A bekért értéket nem kell ellenőriznie.
-
-# 8. Készítsen statisztikát, melyben összegzi, hogy az egyes konstruktőrök versenyzőinek hány köre szerepel az állományban! Jelenítse meg azokat az konstruktőröket és a futott körök számát, amelyeknek több, mint 4 köridő áll a neve mellett! A kiírás sorrendje tetszőleges.
