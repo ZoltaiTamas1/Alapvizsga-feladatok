@@ -1,0 +1,188 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+header img {
+    max-height: 150px;
+    max-width: auto;
+    float: left;
+    margin-top: -96px;
+}
+
+/* ... (your existing styles) ... */
+
+/* Search bar styles */
+.search-container {
+    float: right;
+    margin-top: -50px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.search-container input[type="text"] {
+    padding: 10px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.search-container button {
+    padding: 12px 12px;
+    margin-top: 0;
+    background: #a89494; /* Change to your desired button color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+}
+
+.search-container button:hover {
+    background: #a71111; /* Change to your desired button hover color */
+}
+
+h1 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+main {
+    padding: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 89, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #baa2f1;
+}
+
+hr {
+    border: 1px solid gray;
+  }
+
+h2 {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+aside > p, aside{
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+}
+
+aside img {
+    max-width: 280px;
+}
+
+aside > h1, h2, h3, h4, h5, h6
+{
+    font-size: 18px;
+    margin: 0;
+}
+
+aside p {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: right;
+}
+
+tr {
+    text-align: left;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+aside {
+    float: right;
+    max-width: 300px;
+}
+
+div > aside {
+    padding: 5px;
+    margin: 5px;
+}
+
+.assembly {
+    margin-bottom: 10px;
+}
+
+.bar {
+    background-color: #ddd;
+    height: 20px;
+    width: 200px;
+    position: relative;
+    border-radius: 4px;
+}
+
+.bar-fill {
+    background-color: #0066da;
+    height: 100%;
+    width: 0%;
+    transition: width 0.5s ease;
+    border-radius: 4px;
+}
+
+.seat-count {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+}
+
+.seats {
+    margin-top: 15px;
+    margin-left: 16%;
+}
