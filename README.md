@@ -1,10 +1,9 @@
-|     PROJEKT BEOSZTÁS:      |           |
-|---------------------------|-----------|
+|     PROJEKT BEOSZTÁS:      |           |           | 
+|---------------------------|-----------|-----------|
 | **html (Antall-kormány)** |           |
-| Alapfeladat               | Tóth Barna Róbert |
 | Megoldókulcs              | Tóth Barna Róbert |
-| Feladatsor                | Zoltai Tamás |
-| Javítókulcs               | Zoltai Tamás |
+| Feladatsor                | Zoltai Tamás | Nincs
+| Javítókulcs               | Zoltai Tamás | Nincs
 | **python**                 |           |
 | **1. feladat (Kör számítás)**|           |
 | Megoldókulcs              | Zoltai Tamás |
@@ -14,7 +13,7 @@
 | Alapfeladat               | Tóth Barna Róbert |
 | Megoldókulcs              | Tóth Barna Róbert |
 | Feladatsor                | Tóth Barna Róbert |
-| Javítókulcs               | Zoltai Tamás |
+| Javítókulcs               | Zoltai Tamás | Nincs
 | **3. feladat (Köridők)**     |           |
 | Megoldókulcs              | Tóth Barna Róbert |
 | Feladatsor                | Tóth Barna Róbert |
