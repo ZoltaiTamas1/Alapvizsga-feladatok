@@ -1,5 +1,3 @@
-/* styles.css */
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -21,9 +19,6 @@ header img {
     margin-top: -96px;
 }
 
-/* ... (your existing styles) ... */
-
-/* Search bar styles */
 .search-container {
     float: right;
     margin-top: -50px;
@@ -43,7 +38,7 @@ header img {
 .search-container button {
     padding: 12px 12px;
     margin-top: 0;
-    background: #a89494; /* Change to your desired button color */
+    background: #a89494;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -52,7 +47,7 @@ header img {
 }
 
 .search-container button:hover {
-    background: #a71111; /* Change to your desired button hover color */
+    background: #a71111;
 }
 
 h1 {
