@@ -1,11 +1,11 @@
-from kor import Kor
+from korido import Korido
 
-koridok: list[Kor] = []
+koridok: list[Korido] = []
 
 f = open('Monaco 2023.csv', 'r', encoding='utf-8')
 f.readline()
 for sor in f:
-    koridok.append(Kor(sor))
+    koridok.append(Korido(sor))
 f.close()
 
 print(f'3. feladat: Az állományban {len(koridok)} db köridő lett rögzítve.')

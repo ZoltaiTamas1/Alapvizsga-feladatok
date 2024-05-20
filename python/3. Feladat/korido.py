@@ -1,4 +1,4 @@
-class Kor:
+class Korido:
     def __init__(self, sor: str):
         # Rajtszám;Versenyző;Konstruktőr;Szakasz;Futott idő
         adatok: list[str] = sor.strip().split(';')
