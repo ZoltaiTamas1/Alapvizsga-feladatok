@@ -8,7 +8,6 @@ def tetel_hozzaadasa(sorszam, lista):
     print(f"A bevásárlólistához hozzáadva: {tetel}")
     print()
 
-
 def bevlista_megjelenites(lista):
 
     print("Aktuális bevásárlólista:")
